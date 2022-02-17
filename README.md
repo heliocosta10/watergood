@@ -15,5 +15,5 @@
 
 ## Img do projeto
 
-![home letra](https://github.com/heliocosta10/watergood/edit/master/watergood.png)
+![home letra](https://github.com/heliocosta10/watergood/blob/master/watergood.png)
 
