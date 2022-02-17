@@ -1,5 +1,4 @@
-# Calcule a quantidade ideal
-# de água por dia para você
+# Calcule a quantidade ideal de água por dia para você
 
 ## Projeto em Reactjs / Styled-components
 
