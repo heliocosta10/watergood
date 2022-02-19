@@ -25,7 +25,6 @@ export const Titulo = styled.div`
     font-size: 25px;
     padding: 9px;
 
-
 `;
 
 
@@ -42,7 +41,6 @@ export const Titulo2 = styled.div`
     padding: 8px;
     margin-left: -5px;
     
-
 `;
 
 
@@ -124,7 +122,7 @@ export const Result = styled.div`
     width: 800px;
     height: 300px;
     background: #179CB9;
-    border: red 1px solid;
+    border: white 1px solid;
 
 `;
 /* // Area de resultado  */
@@ -132,6 +130,7 @@ export const Areagarrafa = styled.div`
  
     display: flex;
     flex: 1;
+    flex-direction:column;
     justify-content:center;
     align-items:center;
     color: white;
@@ -154,6 +153,7 @@ export const Areacopo = styled.div`
 
     display: flex;
     flex: 1;
+    flex-direction:column;
     justify-content:center;
     align-items:center;
     color: white;
@@ -166,8 +166,10 @@ export const Botaotexto = styled.input`
 padding:6px;
 text-align:center; 
 margin:10px;
+width: 150px;
 
 `;
+
 
 
 /* Botao do formulario  */
@@ -185,6 +187,14 @@ background: #0E25FC;
 
 `;
 
+
+/* Area da imagem  */
+export const ImgArea = styled.div`
+
+
+
+
+`;
 
 
 
